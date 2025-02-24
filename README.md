@@ -1,0 +1,1 @@
+Atualmente, estou trabalhando em um projeto de página de apresentação utilizando HTML e CSS. Este projeto marca uma etapa importante na minha jornada de aprendizado na área de desenvolvimento front-end. O objetivo inicial é criar uma página simples, mas funcional, que me permita mostrar minhas habilidades e projetos futuros.
