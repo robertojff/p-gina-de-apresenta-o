@@ -188,11 +188,11 @@ body {
     }
 
     button:hover::before {
-        transform: translate(-50%, -50%) scale(1); /* Aumenta o círculo ao passar o mouse */
+        transform: translate(-50%, -50%) scale(1); 
     }
     
     button:hover {
-        background-color: #05192e; /* Muda a cor de fundo ao passar o mouse */
+        background-color: #05192e; 
     }
 
     .button-container {
